@@ -100,8 +100,8 @@ def check_memory() -> None:
 # ── 3. .claude/commands/ 검사 ────────────────────────────────────
 
 def check_commands() -> None:
-    print("\n[.claude/skills/]")
-    commands_dir = ROOT / ".claude" / "skills"
+    print("\n[.claude/commands/]")
+    commands_dir = ROOT / ".claude" / "commands"
     settings = ROOT / ".claude" / "settings.json"
 
     if not commands_dir.exists():
