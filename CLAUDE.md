@@ -77,8 +77,8 @@ These guidelines are working if: fewer unnecessary changes in diffs, fewer rewri
 | 요청 패턴 | 에이전트 | 파일 |
 |-----------|---------|------|
 | 구현, 코드 작성, 추가, 수정 | implementer | `.claude/agents/implementer.md` |
-| 평가, mAP 측정, 성능 비교, 검증 | evaluator | `.claude/agents/evaluator.md` |
-| 설계, 방안 제시, 분석, 기법 조사 | algorithm-developer | `.claude/agents/algorithm-developer.md` |
+| 테스트, 실행, 결과 검증, 성능 측정 | evaluator | `.claude/agents/evaluator.md` |
+| 설계, 방안 제시, 분석, 조사 | algorithm-developer | `.claude/agents/algorithm-developer.md` |
 | 리뷰, 검토, 점검 | code-reviewer | `.claude/agents/code-reviewer.md` |
 
 에이전트를 호출할 때는 해당 에이전트 파일의 규칙과 보고 양식을 따른다.

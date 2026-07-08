@@ -1,10 +1,10 @@
 # Project Memory
 
 ## Current Status
-- [x] Writing CLAUDE.md
-- [x] Initialize memory architecture for agent
-- [x] Define 4 sub-agents (implementer, evaluator, algorithm-developer, code-reviewer)
-- [x] Initialize error log (ERRORS.md)
+
+<!-- 진행 중인 작업 상태를 여기서 관리한다. 예:
+- [ ] <작업 항목>
+-->
 
 ## Memory Files
 - [ERRORS.md](ERRORS.md) — 에이전트 실행 중 발생한 오류 기록. 작업 전 필독.
